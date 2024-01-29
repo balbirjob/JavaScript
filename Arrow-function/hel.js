@@ -1,14 +1,14 @@
-function fun()
+fun= ()=>
 {
     alert("fun was  not work");
 }
 
-function fun2()
+ fun2 = ()=>
 {
     alert("double click was called");
 
 }
-function fun3()
+fun3 =()=>
 {
     alert("mouse over is calling")
 }
